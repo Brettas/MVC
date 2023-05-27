@@ -8,4 +8,4 @@ login: teste@gmail.com , senha: 123;
 Sempre que o projeto for executado eles vão ser gerados.
 Dica: Colocar na conexão do bando de dados create-drop.
 
-O perfil adminstrador consegue excluir usiario da aplicaçõa enquando o usuario normal não.
+O perfil adminstrador consegue excluir usuario da aplicação enquanto o usuario normal não.
